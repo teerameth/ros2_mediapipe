@@ -1,0 +1,1 @@
+#!/usr/bin/env -S HOME=${HOME} ${HOME}/.virtualenvs/cv/bin/python
